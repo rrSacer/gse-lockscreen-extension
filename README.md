@@ -1,4 +1,6 @@
-### Gnome Lockscreen Extension (GNOME V42 and above)
+### Gnome Lockscreen Extension (GNOME V42 and above, including GNOME 51)
+
+Private fork of [pratap-panabaka/gse-lockscreen-extension](https://github.com/pratap-panabaka/gse-lockscreen-extension) (GPL-3.0) adding GNOME Shell 51 support.
 
 ### Install
 ```

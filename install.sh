@@ -26,7 +26,7 @@ else
 fi
 
 echo -e "\t2. Creating zip file..."
-zip -qr $ZIP_NAME ./* && echo -e "\t3. zip file created"
+python3 -m zipfile -c $ZIP_NAME ./* && echo -e "\t3. zip file created"
 
 echo -e "\t4. Installing the extension from the zip file...\n"
 
